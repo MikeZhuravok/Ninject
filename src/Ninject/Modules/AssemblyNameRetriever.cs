@@ -18,7 +18,7 @@
 //   limitations under the License.
 // </copyright>
 //-------------------------------------------------------------------------------
-
+хай олл
 #if !NO_ASSEMBLY_SCANNING
 namespace Ninject.Modules
 {
